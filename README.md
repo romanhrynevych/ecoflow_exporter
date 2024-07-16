@@ -1,3 +1,6 @@
+Start ecoflow app: `docker compose up -d`
+Stop ecoflow app: `docker compose down -v`
+
 # ⚡ EcoFlow to Prometheus exporter
 
 ![GitHub](https://img.shields.io/github/license/berezhinskiy/ecoflow_exporter)
